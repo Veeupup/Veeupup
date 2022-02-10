@@ -1,12 +1,8 @@
-<h2> Hey there! I'm Veeupup.</h2>
-
 <h3> About me </h3>
 
 * 🌱 Learning databases and distributed systems.
-
 * 💼 Coding in Rust, C++ 
-
-* 🎓 Studying for my CS master in BUAA
+* 🎓 Studying for my CS master in BUAA, used to be a distributed storage developer intern in ByteDance.
 
 ...
 
