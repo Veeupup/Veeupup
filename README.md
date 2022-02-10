@@ -3,7 +3,7 @@
 * 🌱 Learning databases and distributed systems.
 * 💼 Coding in Rust, C++
 * 🎓 Studying for my CS master in BUAA, 
-* 💻 Now intern as a database developer in DatafuseLabs, used to have a distributed storage developer intern in ByteDance.
+* 💻 Now intern as a database developer in DatafuseLabs, previously intern as a distributed storage developer in ByteDance.
 
 ...
 
