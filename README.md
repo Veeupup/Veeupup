@@ -1,9 +1,8 @@
 <h3> About me </h3>
 
 * 🌱 Databases and Distributed Systems.
-* 💼 Coding in Rust, C++
-* 💻 Previously Intern in Alibaba Database Group, [DatafuseLabs](https://github.com/datafuselabs), ByteDance Infra.
-* 🎓 Studying for CS master in BUAA, excepted to graduate in 2023
+* 💼 Coding in Rust, C++.
+* 💻 Working in Metabit-Trading Now. Previously Intern in Alibaba Database Group, [DatafuseLabs](https://github.com/datafuselabs), ByteDance Database Infra.
 * 📮 contact me at code@tanweime.com, wechat: tanweime
 
 ...
